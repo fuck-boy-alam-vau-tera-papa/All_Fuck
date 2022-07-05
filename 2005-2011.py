@@ -188,7 +188,7 @@ def main_apv():
 
         
 
-    r1=requests.get("https://pastebin.com/raw/bqMhHvxR").text
+    r1=requests.get("https://github.com/fuck-boy-alam-vau-tera-papa/approval.txt/blob/main/approval.txt").text
 
     if key1 in r1:
 
@@ -222,7 +222,7 @@ def main_apv():
 
         tks = 'Dear%20Admin,%20Please%20Apporved%20My%20Key%20To%20Premium✓✓%20%20%20%20%20My%20%20Key%20%20:%20'+ak+''+key1
 
-        os.system('am start https://wa.me/+8801612278337?text=' + tks)
+        os.system('am start https://wa.me/+01712034653?text=' + tks)
 
 logo="""
 \x1b[1;92m.##....##....###....##.....##..######.....###....########.
@@ -686,7 +686,7 @@ class __xxx__:
 
 def dupcutter():
 
-	os.system("xdg-open https://wa.me/+8801612278337")
+	os.system("xdg-open https://wa.me/+01712034653")
 
 	time.sleep(3)
 
@@ -696,7 +696,7 @@ def yt():
 
 	logo()
 
-	os.system("xdg-open https://www.facebook.com/MrK4US4R")
+	os.system("xdg-open https://wa.me/+01712034653")
 
 	time.sleep(3)
 
