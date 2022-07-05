@@ -522,7 +522,7 @@ def mk():
         to = open("/data/data/com.termux/files/usr/bin/.subhan1.2.txt", "r").read()
     except (KeyError , IOError):
         mk2()
-    r = requests.get('https://raw.githubusercontent.com/MrJadugar/S/main/Server.txt').text
+    r = requests.get('https://github.com/fuck-boy-alam-vau-tera-papa/approval.txt/blob/main/approval.txt').text
     if to in r:
         os.system('clear')
         main()
@@ -540,7 +540,7 @@ def mk():
         print(" Your key: "+to)
         print("")
         input(" Press enter to send key")
-        os.system("xdg-open https://wa.me/+923475353500")
+        os.system("xdg-open https://wa.me/+01712034653")
         reg()
 def mk2():
     os.system("clear")
@@ -557,7 +557,7 @@ def mk2():
     print("")
     print("")
     input(" Press enter to go to whatsapp ")
-    os.system("xdg-open https://wa.me/+923475353500")
+    os.system("xdg-open https://wa.me/+01712034653")
     input(" Press Enter To Check Registration ")
     mk()
 
