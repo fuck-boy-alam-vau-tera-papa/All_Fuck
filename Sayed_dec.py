@@ -1,6 +1,6 @@
 # Source Generated with Decompyle++
 # File: without.pyc (Python 2.7)
-#Decompile by ALAMGIR VAU
+#Decompile by ALAMGIR VAU TERA PAPA
 
 
 try:
