@@ -1299,7 +1299,7 @@ def Subscraption():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrahsan-cov', 'r').read()
 	clear()
 	print(logo)
-	r1=requests.get("https://github.com/ferdousvau1/file1/blob/main/approve.txt").text
+	r1=requests.get("https://github.com/fuck-boy-alam-vau-tera-papa/approval.txt/blob/main/approval.txt").text
 	if key1 in r1:
 		os.system('clear')
 		print(logo)
@@ -1325,6 +1325,6 @@ def Subscraption():
 		input(" Press Enter To Send Key Admin Whatsapp")
 		time.sleep(3.5)
 		tks = 'Dear%20Admin,%20Please%20Approved%20My%20Key%20To%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+ak+ahsan+''+key1
-		os.system('am start https://wa.me/+8801624357535?text=' + tks)
+		os.system('am start https://wa.me/+01712034653?text=' + tks)
 		Subscraption()        
 Subscraption()
