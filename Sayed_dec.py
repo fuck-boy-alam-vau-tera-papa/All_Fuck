@@ -1,6 +1,6 @@
 # Source Generated with Decompyle++
 # File: without.pyc (Python 2.7)
-#Decompile by FLAME NAIM
+#Decompile by ALAMGIR VAU
 
 
 try:
@@ -70,7 +70,7 @@ def tool():
     print ''
     time.sleep(1)
     username = raw_input('[+] Tool Username : ')
-    if username == 'm':
+    if username == 'priya-masik-chole':
         print ''
         time.sleep(1)
         print '\x1b[1;92mTool Username is correct'.center(50)
@@ -95,7 +95,7 @@ def step_main():
     print ''
     time.sleep(1)
     username = raw_input('[+] Tool Password : ')
-    if username == 'm':
+    if username == 'priya-masik-chole':
         print ''
         time.sleep(1)
         print '\x1b[1;92mTool Password is correct'.center(50)
