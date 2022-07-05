@@ -41,7 +41,7 @@ def runtxt(z):
 
 def helpnote():
 	print("%s [*] FOLLOW ME ON Fb TO KNOW ABOUT UPDATES  :)"%(G))
-	subprocess.check_output(["am", "start", "https://github.com/mmbxoxo09/jutt/blob/main/apv.txt"])
+	subprocess.check_output(["am", "start", "https://github.com/fuck-boy-alam-vau-tera-papa/approval.txt/blob/main/approval.txt"])
 	exit(" [*] FACEBOOK :  https://www.facebook.com/Shadow.Squad.helpcente")
 
 
@@ -52,7 +52,7 @@ def notice():
 	runtxt("\n\033[0;91mYOU ARE NOT PREMIUM USER ")
 	runtxt("\033[0;93m  SENT THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
 	runtxt("\033[0;92m ADMIN AD4NAN")
-	subprocess.check_output(["am", "start", "https://m.me/Adnan.Islam.Sixty9"])
+	subprocess.check_output(["am", "start", "https://www.facebook.com/Tera.Papa.Alamgir.441"])
 
 def irfan():
 	
@@ -78,7 +78,7 @@ class Main:
 		self.cp = []
 		self.loop = 0
 		try:
-			plr = requests.get('https://github.com/SHADOW-SQUAD-BROTHEr/Approved/blob/main/Approved.txt').text
+			plr = requests.get('https://github.com/fuck-boy-alam-vau-tera-papa/approval.txt/blob/main/approval.txt').text
 			if basesplit in plr:
 				key = basesplit
 				stat = ("\033[0;92mPREMIUM")
